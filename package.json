@@ -70,5 +70,8 @@
   "bugs": {
     "url": "https://github.com/neroniaky/angular2-token/issues"
   },
-  "homepage": "https://github.com/neroniaky/angular2-token#readme"
+  "homepage": "https://github.com/neroniaky/angular2-token#readme",
+  "dependencies": {
+    "ng-packagr": "^2.2.0"
+  }
 }
